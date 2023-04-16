@@ -1,0 +1,11 @@
+p.text--bold{
+  color: red;
+
+}
+
+.child {
+  color: blue;
+}
+
+a:link {color: blueviolet;}
+a:visited {color: green;}
